@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/zasl9712/SCRRRA/_apis/build/status/fimmicon.java-ado-example?branchName=main)](https://dev.azure.com/zasl9712/SCRRRA/_build/latest?definitionId=3&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
