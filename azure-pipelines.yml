@@ -10,7 +10,6 @@ strategy:
       imageName: "windows-latest"
       jdkVersion: "1.11"
   maxParallel: 2
-
 pool:
   vmImage: $(imageName)
 
