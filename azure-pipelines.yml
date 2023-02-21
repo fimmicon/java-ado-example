@@ -24,4 +24,3 @@ steps:
     publishJUnitResults: true
     testResultsFiles: "**/TEST-*.xml"
     goals: "package"
-- template: azure-bla-bla.yml
